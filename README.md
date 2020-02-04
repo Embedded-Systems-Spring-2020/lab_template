@@ -1,2 +1,1 @@
-# lab_template
-This is the starting point for embedded labs.
+I'm a front page readme!
